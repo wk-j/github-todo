@@ -6,7 +6,9 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <!-- @todo Update Newtonsoft.json  -->
+        <!--
+            @todo Update Newtonsoft.json
+        -->
         <PackageReference Include="Newtonsoft.json" 
             Version="12.0.2" />
     </ItemGroup>
